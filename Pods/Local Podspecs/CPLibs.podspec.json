@@ -1,0 +1,27 @@
+{
+  "name": "CPLibs",
+  "version": "0.0.1",
+  "summary": "PLibs.",
+  "description": "CPLibs",
+  "homepage": "http://captain/CPLibs",
+  "license": "MIT (CPLibs)",
+  "authors": {
+    "captain520": "34092052+captain520@users.noreply.github.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "http://captain/CPLibs.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "CPLibs",
+    "CPLibs/**/*.{h,m}"
+  ],
+  "dependencies": {
+    "MJRefresh": [
+
+    ]
+  }
+}

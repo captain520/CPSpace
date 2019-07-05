@@ -1,0 +1,6 @@
+framework module CPLibs {
+  umbrella header "CPLibs-umbrella.h"
+
+  export *
+  module * { export * }
+}

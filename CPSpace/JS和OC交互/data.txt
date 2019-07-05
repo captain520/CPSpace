@@ -1,0 +1,13 @@
+//添加购物车的代码实现
+function addProductToCart(a,b,c){
+    window.webkit.messageHandlers.showMessage1111.postMessage([a,b,c])
+}
+
+//添加购物车并伴随动画的代码实现
+function addProductToCartWithMove(a,b,c){
+window.webkit.messageHandlers.showMessage1111.postMessage([a,b,c])
+}
+
+function strategyDivBtnClickEvent(){
+window.webkit.messageHandlers.ocMethod.postMessage("我点击html按钮,调用oc的方法,让webView消失");
+}

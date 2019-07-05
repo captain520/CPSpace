@@ -1,0 +1,2 @@
+/Users/wangzhangchuan/Library/Developer/Xcode/DerivedData/CPSpace-dueaqagnfbsmoufedmktlthxkyow/Build/Products/Debug-iphonesimulator/CPSpace.app
+iPhone Developer
